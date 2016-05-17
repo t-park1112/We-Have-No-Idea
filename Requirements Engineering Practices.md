@@ -1,15 +1,29 @@
 # Requirements Engineering Practices
 
 
-The requirements engineering process is comprised of eliciting requirements from stakeholders, modelling and validating requirements (Hofmann, H., 2001). According to Hoffman, "getting requirements right might be the single most important and difficult part of a software project".
+The requirements engineering process is comprised of eliciting requirements from stakeholders, modelling and validating requirements (Hofmann, H., 2001, pg. 59). According to Hoffman, "getting requirements right might be the single most important and difficult part of a software project".
 
-The following practices are recommended for eliciting successful software requirements from stakeholders by the Franchise group undergoing development of the Share portfolio management software.
+The following practices are recommended for successful requirements engineering from stakeholders by the Franchise group undergoing development of the Share portfolio management software.
 
 
-## Developing Prototypes
+# Verifying and validating requirements (not a practice but process)
 
-## Verification and validation
+This process involves using modelling methods such as prototyping using gathered requirements, peer reviewing and doing walkthroughs of scenarios to improve the specifications of the software (Hofmann, H., 2001, pg. 65).
 
-## Peer reviews and walkthroughs
+## Involve customers and users throughout the Requirements Engineering process
 
-## Create Scenarios
+## Identify and consult all stakeholders and potential sources of requirements
+
+## Assign skilled team members and project managers
+
+## Allocate a most resources towards the requirements engineering process
+
+## Maintain a good relationship with all stakeholders
+
+## Prioritize requirements
+
+## Develop models and prototypes using the requirements
+
+## Use a traceability matrix
+
+## use peer reviews and team discussion
