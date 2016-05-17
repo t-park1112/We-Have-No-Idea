@@ -6,4 +6,10 @@ The requirements engineering process is comprised of eliciting requirements from
 The following practices are recommended for eliciting successful software requirements from stakeholders by the Franchise group undergoing development of the Share portfolio management software.
 
 
+## Developing Prototypes
 
+## Verification and validation
+
+## Peer reviews and walkthroughs
+
+## Create Scenarios
