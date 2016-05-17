@@ -32,6 +32,8 @@ By maintainng strong healthy relationships with stakeholders allows a software p
 
 ## Prioritize requirements
 
+Prioritzing requirements is important to successful requirements engineering because of project time and budget constraints (Young, R., 2002, pg. 9). In many projects there is not enough time to provide the stakeholders with everything they want. By prioritizing requirements, uneccessary features can be minimized which reduces costs and design constrants (Young, R., 2002, pg. 9).
+
 ## Develop models and prototypes using the requirements
 
 ## Use a traceability matrix
