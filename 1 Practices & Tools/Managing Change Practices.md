@@ -1,49 +1,75 @@
 Managing Change Practices
 =========================
 
-Managing Change within a software development team refers to approaches used by
-the team to change the use of resources, possible requirements of the product or
-any changes to the process of developing.
+Choosing which practices to use for managing change are heavily dependent on the
+impact the change may have on the current development process. For changes with
+small impacts on the development, **Daily meetings** can be used to bring the
+issue and change to the team. For changes with large enough impacts that would
+stunt the development process, killing the current sprint and re-forming the
+sprint in **Sprint Planning meetings** would be most effective. However, for
+change that are large, but are not totally disruptive to the development
+process, adding the change to **Backlogs** can be effective for future
+development and planning.
 
-The approaches that could be used to help manage changes are Establishing a
-solid governance body, defining a sprint, holding daily stand-up meetings,
-having an end of sprint retrospective and constant communication within the
-team, as stated by Span (2015).
+ 
 
-**Establishing a governance body:**
+Daily Meetings
+--------------
 
-As most changes arise in many different forms, they need to be efficiently dealt
-with and easily tracked. Having a solid governing body will give individual
-members of a team assigned roles according to their strengths in a particular
-area at the start of the development process. This will force all changes
-related to a role to be forwarded to the corresponding team member(s), whom will
-deal with the change, and make any necessary changes. The change would be
-recorded by the team member(s), so if the change needed to be tracked in the
-future, a record will exist that will track who and what was changed.
+For any small potential changes that may not have a huge impact on the
+development process that may occur, they can be easily managed with having daily
+meetings throughout the development process. Daily meetings traditionally
+consist of sharing with members of the team and stakeholders on discussing what
+was completed, any problems and what needs to be completed. This gives
+opportunities for any changes that have been encountered by anyone involved in
+the meetings to bring it up during meetings and have it dealt with accordingly,
+with everyone’s knowledge and approval.
 
-**Holding retrospectives: ​**
+ 
 
-In Scrum holding retrospectives regularly is a way for the development team to
-reflect on what went well and what did not before moving ahead in a project.
-During these retrospectives is a chance for the team to review changes that were
-made, and decide on if the appropriate action was done, and what possible
-effects it could have in the future that they can predict and somehow prevent.
+Sprint Planning Meetings
+------------------------
 
-**Communication:**
+For large impact changes that may cause the development process to be stunted,
+that may occur, can have the current sprint killed for it to be reset with
+Sprint Planning Meetings to start anew. Sprint Planning Meetings are where
+stakeholders collaborate and plan what user stories to include in a sprint, so
+that all members involved know what is happening. As an identified change has
+been detected to have stunted all development and discussed during a meeting,
+killing the sprint will be the most effective. Although this may cause delays in
+the plan, restarting a sprint with Sprint planning meetings will help re-plan
+the entire sprint relative to the change involved, so that development can be
+continued.
 
-Daily/Frequent and effective communication among members of the team or with
-stakeholders increases chances of successful change efforts. Through
-communications team members are constantly alerted to upcoming or possible
-changes. These changes would be addressed and dealt with by the team to keep all
-members aware what is changing within the project. Also any changes to
-requirements that stakeholders may have can also be communicated to the
-development team, so that the finished product will meet the expectations of the
-stakeholders.
+ 
+
+Product Backlog
+---------------
+
+For small changes and large changes that do not affect the development process ,
+a product backlog can be used to track all changes, so that all stakeholders are
+able to view it and in the next sprint it can be brought up for discussion. A
+Product backlog is produced at the start of planning a project, which contains a
+collection of prioritized requirements which are done by negotiations between
+stakeholders. As “Scrum’s ability to respond to change has been one of its
+strongest assets in this environment and the backlog’s ability to evolve will
+make it a valuable addition to the team’s process” (Dulock & Long, 2015). So all
+changes would have no real impact on current development. All changes would be
+recorded for them to be easily tracked and for them to be brought up in the next
+sprint planning meetings to address them. (Hazrati, 2004)
 
  
 
 Reference
 ---------
 
-Span, S. (2015). Organizational Change, Strategy. Retrieved from
+Hazrati, V. (2008). Managing Change requests in Scrum. Retrieved from
 http://tolerosolutions.com/5-ways-agile-scrum-can-help-change-management/
+
+ 
+
+Dulock, M. & Long, H (2015). Digital collections are a sprint, Not a Marathon:
+Adapting Scrum Project Management Techniques to Library Digital Initiatives.
+Information technology and Libraries, Vol 34, No 4.
+
+<http://dx.doi.org.ezproxy.aut.ac.nz/10.6017/ital.v34i4.5869> 
