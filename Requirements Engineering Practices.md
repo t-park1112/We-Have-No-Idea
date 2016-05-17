@@ -28,6 +28,8 @@ According to Hubert F. Hofmann in his paper "Requirements Engineering as a Succe
 
 ## Maintain a good relationship with all stakeholders
 
+By maintainng strong healthy relationships with stakeholders allows a software project to be more successful. By continuously collaborating with stakeholders you can ensure that requirements are interpreted properly (Hofmann, H., 2001, pg. 65). Continuous communication also allows a software project to deal with changing requirements and avoid communication breakdowns (Hofmann, H., 2001, pg. 65). The biggest key benefit of maintaining a good relationship with all stakeholders is that it better satisfies the needs of the customers (Hofmann, H., 2001, pg. 65, table 2).
+
 ## Prioritize requirements
 
 ## Develop models and prototypes using the requirements
