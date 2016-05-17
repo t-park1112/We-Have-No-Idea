@@ -43,14 +43,16 @@ The use of prototypes and models as a best practice help eliminate ambiguities a
 
 ## Use a traceability matrix
 
-//TODO
+A traceability matrix is a document that shows relations between two sets of values. In requirements engineering, a traceability matrix is used to track requirements' lifecycles from their conception through to their implementation (Hofmann, H., 2001, pg. 66). This is a best practice for requirements engineering, because it allows projects to document links between requirements and the products produced (Hofmann, H., 2001, pg. 65).
 
 ## use peer reviews and team discussion
 
-//TODO
+Peer reviews and team discussion in requirements engineering is the process of conferring with team members and product managers to verify and validate requirements. This helps improve the specifications of a project and create higher customer satisfaction (Hofmann, H., 2001, pg. 65, table 2).
 
 # References
 
-//TODO
+* Hofmann, H. F., & Lehner, F. (2001). Requirements engineering as a success factor in software projects. IEEE software, 18(4), 58.
+
+* Young, R. R. (2002). Recommended requirements gathering practices. CrossTalk, 15(4), 9-12.
 
 
