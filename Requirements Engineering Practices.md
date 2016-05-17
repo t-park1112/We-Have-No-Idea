@@ -36,11 +36,21 @@ Prioritzing requirements is important to successful requirements engineering bec
 
 ## Develop models and prototypes using the requirements
 
+According to Dr. Ralph Young in his paper "Reccomended Requirements Gathering Practices", prototyping in a software project is "...the technique for building a quick and rough version of a desired system...". Developing prototypes are important to making a successful product as they show the capabilities of the system to users and designers (Young, R., 2002, pg. 11). It allows serves to help facilitate communication by team members to help them understand the requirements better (Youg, R., 2002, pg. 11).
+According to Dr. Ralph Young also, "A Model is a representation of reality that is intended to facilitate understanding". Models are used in effective requirements engineering in order to help facilitate understanding of the requirements of a project.
+
+The use of prototypes and models as a best practice help eliminate ambiguities and inconsistencies in a project's requirements (Hofmann, H., 2001, pg. 65, table 2).
+
 ## Use a traceability matrix
+
+//TODO
 
 ## use peer reviews and team discussion
 
+//TODO
 
 # References
+
+//TODO
 
 
