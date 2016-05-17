@@ -1,7 +1,7 @@
 # Requirements Engineering Practices
 
 
-The requirements engineering process is comprised of eliciting requirements from stakeholders, modelling and validating requirements (Hofmann, H., 2001, pg. 59). According to Hoffman, "getting requirements right might be the single most important and difficult part of a software project".
+The requirements engineering process is comprised of eliciting requirements from stakeholders, modelling and validating requirements (Hofmann, H., 2001, pg. 59). According to Hoffman, eliciting requirements is the most important and difficult process of a software project.
 
 The following practices are recommended for successful requirements engineering from stakeholders by the Franchise group undergoing development of the Share portfolio management software.
 
@@ -12,7 +12,7 @@ This process involves using modelling methods such as prototyping using gathered
 
 ## Involve customers and users throughout the Requirements Engineering process
 
-By involving customers and users throughout the requirements engineering process, a software project can be more successful. Customer and user involvement allows a "better understanding of the real needs" (Hofmann, H., 2001, pg. 65) of a software project. Hoffman also states "user participation is one of the most important factors contributing to requirements engineering success".
+By involving customers and users throughout the requirements engineering process, a software project can be more successful. Customer and user involvement allows a "better understanding of the real needs" (Hofmann, H., 2001, pg. 65) of a software project. Hoffman also states that the most important factor towards successful requirements engineering is user participation. 
 
 ## Identify and consult all stakeholders and potential sources of requirements
 
@@ -24,7 +24,7 @@ Successful software projects have teams that are experts in knowledge of the res
 
 ## Allocate the most resources towards the requirements engineering process
 
-According to Hubert F. Hofmann in his paper "Requirements Engineering as a Success Factor in Software Projects", "successful projects allocate a significantly higher amount of resources to requirements engineering... than the average project...". Hofmann states that between 15 to 30 percent of the total project effort should be spent on requirements engineering. The overall goal of this is that it allows a software project to develop a high quality specification of the software throughout its lifecycle (Hofmann, H., 2001, pg. 65, table 2).
+According to Hubert F. Hofmann in his paper, "Requirements Engineering as a Success Factor in Software Projects", projects that are more successful tent to have significantly more time and resources dedicated to requirements engineering than those that are not as successful. Hofmann states that between 15 to 30 percent of the total project effort should be spent on requirements engineering. The overall goal of this is that it allows a software project to develop a high quality specification of the software throughout its lifecycle (Hofmann, H., 2001, pg. 65, table 2).
 
 ## Maintain a good relationship with all stakeholders
 
@@ -36,7 +36,7 @@ Prioritzing requirements is important to successful requirements engineering bec
 
 ## Develop models and prototypes using the requirements
 
-According to Dr. Ralph Young in his paper "Reccomended Requirements Gathering Practices", prototyping in a software project is "...the technique for building a quick and rough version of a desired system...". Developing prototypes are important to making a successful product as they show the capabilities of the system to users and designers (Young, R., 2002, pg. 11). It allows serves to help facilitate communication by team members to help them understand the requirements better (Youg, R., 2002, pg. 11).
+According to Dr. Ralph Young in his paper, "Reccomended Requirements Gathering Practices", prototyping in a software project is technique of building rough and quickly implemented versions of a system. Developing prototypes are important to making a successful product as they show the capabilities of the system to users and designers (Young, R., 2002, pg. 11). It allows serves to help facilitate communication by team members to help them understand the requirements better (Youg, R., 2002, pg. 11).
 According to Dr. Ralph Young also, "A Model is a representation of reality that is intended to facilitate understanding". Models are used in effective requirements engineering in order to help facilitate understanding of the requirements of a project.
 
 The use of prototypes and models as a best practice help eliminate ambiguities and inconsistencies in a project's requirements (Hofmann, H., 2001, pg. 65, table 2).
