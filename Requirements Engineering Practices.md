@@ -22,7 +22,9 @@ Identifying all stakeholders makes sure that all requirements are covered. By co
 
 Successful software projects have teams that are experts in knowledge of the respective application domain, IT, and requirements engineering ( Hofmann, H., 2001, pg. 65). Having the right ratio of these on a requirements engineering team will ensure that the best mix of knowledge, resources, and processes are used when engineering requirements (Hofmann, H., 2001, pg. 65).
 
-## Allocate a most resources towards the requirements engineering process
+## Allocate the most resources towards the requirements engineering process
+
+According to Hubert F. Hofmann in his paper "Requirements Engineering as a Success Factor in Software Projects", "successful projects allocate a significantly higher amount of resources to requirements engineering... than the average project...". Hofmann states that between 15 to 30 percent of the total project effort should be spent on requirements engineering. The overall goal of this is that it allows a software project to develop a high quality specification of the software throughout its lifecycle (Hofmann, H., 2001, pg. 65, table 2).
 
 ## Maintain a good relationship with all stakeholders
 
