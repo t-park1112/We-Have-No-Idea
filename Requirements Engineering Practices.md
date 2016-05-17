@@ -12,6 +12,8 @@ This process involves using modelling methods such as prototyping using gathered
 
 ## Involve customers and users throughout the Requirements Engineering process
 
+By involving customers and users throughout the requirements engineering process, a software project can be more successful. Customer and user involvement allows a "better understanding of the real needs" (Hoffmann, H., 2001, pg. 65) of a software project. Hoffman also states "user participation is one of the most important factors contributing to requirements engineering success".
+
 ## Identify and consult all stakeholders and potential sources of requirements
 
 ## Assign skilled team members and project managers
