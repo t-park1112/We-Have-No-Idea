@@ -16,9 +16,11 @@ By involving customers and users throughout the requirements engineering process
 
 ## Identify and consult all stakeholders and potential sources of requirements
 
-Identifying all stakeholders makes sure that all requirements are covered. By continually collaborating with stakeholders you can make sure that all requirements are collected and interpreted properly (Hofmann, H., pg. 65). This also allows projects to verify and validate requirements that may have been misinterpreted from individual stakeholders (Hofmann, H., pg. 63).
+Identifying all stakeholders makes sure that all requirements are covered. By continually collaborating with stakeholders you can make sure that all requirements are collected and interpreted properly (Hofmann, H., 2001, pg. 65). This also allows projects to verify and validate requirements that may have been misinterpreted from individual stakeholders (Hofmann, H., 2001, pg. 63).
 
 ## Assign skilled team members and project managers
+
+Successful software projects have teams that are experts in knowledge of the respective application domain, IT, and requirements engineering ( Hofmann, H., 2001, pg. 65). Having the right ratio of these on a requirements engineering team will ensure that the best mix of knowledge, resources, and processes are used when engineering requirements (Hofmann, H., 2001, pg. 65).
 
 ## Allocate a most resources towards the requirements engineering process
 
