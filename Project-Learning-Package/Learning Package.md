@@ -17,10 +17,10 @@ The target audience for this learning package is all development team members an
 
 ### Learning Goals
 
-*To be able to identify all relevant aspects of a SCRUM board
-*To be able to identify all roles involved with using a SCRUM board
-*Participate in a standup involving using a SCRUM board
-*Conduct as standup as a SCRUM master using a SCRUM board
+* To be able to identify all relevant aspects of a SCRUM board
+* To be able to identify all roles involved with using a SCRUM board
+* Participate in a standup involving using a SCRUM board
+* Conduct as standup as a SCRUM master using a SCRUM board
 
 ### Learn and identify all relevent aspects of a SCRUM board
 #### **Time:** *30min approx*
