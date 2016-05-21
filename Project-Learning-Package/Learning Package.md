@@ -50,13 +50,6 @@ This short test involves getting each member to fill out a questionnaire on the 
 2. Select a couple of user stories from the product backlog of the project.
 3. Using the user stories from step 2., conduct a mock SCRUM standup. Be sure to assign tasks to each member of the team. Because of the size of the team, more user stories may need to be added.
 
-### Conduct a standup as SCRUM master
-#### **Time:** *15min per team member*
-
-#### **Actions:**
-1. Select a couple of different user stories from the previous learning plan objective.
-2. Select a new Scrum master and conduct another SCRUM standup like the previous learning plan objective.
-3. Repeat this process for all members until each member is proficient with the process of standups and how to use a SCRUM task board.
 
 ## Learning Resources
 
@@ -67,3 +60,18 @@ This short test involves getting each member to fill out a questionnaire on the 
 [Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
 
 ## Learning activity
+
+### Conduct a standup as SCRUM master
+
+#### Goal
+
+In order to reinforce the ideas and processes surrounding a Scrum task board it is important that each team member have a go at being the scrum master for a standup session in order to show that they understand how a scrum board works.
+
+#### **Time:** *15min per team member*
+
+#### **Actions:**
+1. Select a couple of different user stories from the previous learning plan objective.
+2. Select a new Scrum master and conduct another SCRUM standup like the previous learning plan objective.
+3. Repeat this process for all members until each member is proficient with the process of standups and how to use a SCRUM task board.
+
+
