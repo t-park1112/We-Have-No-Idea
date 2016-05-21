@@ -36,6 +36,7 @@ Voice-talk communication software will be used for daily meetings that involve a
 
 ## TestRail
 
+TestRail is a Quality Assurance tool that specialises in organising tests, executing tests, collecting test results and coordinating testing efforts. Quality assurance is an important part of ensuring that a software project produces a quality software product. We recommend that the Share Portfolio management software development team use TestRail for conducting their tests and Quality assurance practices.
 
 # References
 
