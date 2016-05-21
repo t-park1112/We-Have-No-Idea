@@ -27,6 +27,7 @@ The target audience for this learning package is all development team members an
 
 #### **Actions:**
 1. Watch and review the following resources:
+
 - [Video - how to use the scrum task board](https://www.youtube.com/watch?v=Ti2g66b7MUo "SCRUM 101 The Task Board")
 - [Webpage - What is a Scrum task board?](https://www.mountaingoatsoftware.com/agile/scrum/task-boards "Scrum Task Board")
 
@@ -38,6 +39,7 @@ This short test involves getting each member to fill out a questionnaire on the 
 
 #### **Actions:**
 1. Watch and review the following resources:
+
 - [Video - How to hold a Standup](https://www.youtube.com/watch?v=YBKuYzqvZmI "How to Hold a Daily Standup Meeting")
 
 ### Participate in a standup
