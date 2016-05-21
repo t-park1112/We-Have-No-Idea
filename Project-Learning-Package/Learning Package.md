@@ -27,8 +27,8 @@ The target audience for this learning package is all development team members an
 
 #### **Actions:**
 1. Watch and review the following resources:
-⋅⋅1.[Video - how to use the scrum task board](https://www.youtube.com/watch?v=Ti2g66b7MUo "SCRUM 101 The Task Board")
-⋅⋅1.[Webpage - What is a Scrum task board?](https://www.mountaingoatsoftware.com/agile/scrum/task-boards "Scrum Task Board")
+⋅⋅1. [Video - how to use the scrum task board](https://www.youtube.com/watch?v=Ti2g66b7MUo "SCRUM 101 The Task Board")
+⋅⋅1. [Webpage - What is a Scrum task board?](https://www.mountaingoatsoftware.com/agile/scrum/task-boards "Scrum Task Board")
 
 2. Review knowledge with short test
 This short test involves getting each member to fill out a questionnaire on the key aspects of the resources used in step one. Each member must score 100% before being able to continue to the next step in learning.
@@ -38,7 +38,7 @@ This short test involves getting each member to fill out a questionnaire on the 
 
 #### **Actions:**
 1. Watch and review the following resources:
-⋅⋅1.[Video - How to hold a Standup](https://www.youtube.com/watch?v=YBKuYzqvZmI "How to Hold a Daily Standup Meeting")
+⋅⋅1. [Video - How to hold a Standup](https://www.youtube.com/watch?v=YBKuYzqvZmI "How to Hold a Daily Standup Meeting")
 
 ### Participate in a standup
 #### **Time:** *15min*
