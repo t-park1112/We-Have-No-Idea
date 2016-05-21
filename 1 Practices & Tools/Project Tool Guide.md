@@ -25,6 +25,11 @@ We recommend that the Share portfolio management software development team use a
 
 ## Github
 
+Github is a web-based code hosting service that uses Git for version control of source code and file management by allowing users to create repositories for individual software projects and documents. 
+
+If a team is located at the same location as a physical repository where documents like product backlogs and sprint backlogs can be created on the scrum board, it is more beneficial to plan and track the project this way, because as like Scrum boards, being constantly exposed to it will constantly remind members if they are completing tasks as planned. However, in the cases where this cannot be acheived we recommend that the Share portfolio management software development team use Github as an option for source code control/planning and tracking of the project  as it allows support for the existing decaying codebase and version control of supplementary documents associated to the SCRUM development process. It can also store backlogs in the form of documents, and version control can be easily done.
+
+
 ## Skype for business
 
 ## TestRail
