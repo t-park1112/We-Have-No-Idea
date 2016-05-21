@@ -23,7 +23,7 @@ The target audience for this learning package is all development team members an
 * Conduct as standup as a SCRUM master using a SCRUM board
 
 ### Learn and identify all relevent aspects of a SCRUM board
-#### **Time:** *30min approx*
+#### **Time:** *20min approx*
 
 #### **Actions:**
 1. Watch and review the following resources:
@@ -35,12 +35,20 @@ The target audience for this learning package is all development team members an
 This short test involves getting each member to fill out a questionnaire on the key aspects of the resources used in step one. Each member must score 100% before being able to continue to the next step in learning.
 
 ### Learn and identify all roles involved with using a SCRUM board
-#### **Time:** *30min approx*
+#### **Time:** *20min approx*
 
 #### **Actions:**
 1. Watch and review the following resources:
 
   - [Video - How to hold a Standup](https://www.youtube.com/watch?v=YBKuYzqvZmI "How to Hold a Daily Standup Meeting")
+
+
+### Test team member's knowledge with scrum board quiz
+#### **Time:** *30min approx*
+
+#### **Actions:**
+1. perform a written test of the project managers choosing in which all team members have to participate. The goal is to score 100% in order to prove one's profiency in the ideas of a Scrum board.
+
 
 ### Participate in a standup
 #### **Time:** *15min*
@@ -49,6 +57,8 @@ This short test involves getting each member to fill out a questionnaire on the 
 1. Setup a SCRUM board in the work environment of the development team.
 2. Select a couple of user stories from the product backlog of the project.
 3. Using the user stories from step 2., conduct a mock SCRUM standup. Be sure to assign tasks to each member of the team. Because of the size of the team, more user stories may need to be added.
+
+
 
 
 ## Learning Resources
