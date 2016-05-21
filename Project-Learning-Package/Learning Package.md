@@ -25,15 +25,34 @@ The target audience for this learning package is all development team members an
 ### Learn and identify all relevent aspects of a SCRUM board
 #### **Time:** *30min*
 
+#### **Actions:**
+1. Watch and review the following resources:
+..1. 
+
 ### Learn and identify all roles involved with using a SCRUM board
 #### **Time:** *30min*
+
+#### **Actions:**
+1. 
 
 ### Participate in a standup
 #### **Time:** *15min*
 
+#### **Actions:**
+1. 
+
 ### Conduct a standup as SCRUM master
 #### **Time:** *15min per team member*
 
+#### **Actions:**
+1. 
+
 ## Learning Resources
+
+[Scrum 101] The Task Board - https://www.youtube.com/watch?v=Ti2g66b7MUo
+
+How to Hold a Daily Standup Meeting - https://www.youtube.com/watch?v=YBKuYzqvZmI
+
+Scrum Task Board - https://www.mountaingoatsoftware.com/agile/scrum/task-boards
 
 ## Learning activity
