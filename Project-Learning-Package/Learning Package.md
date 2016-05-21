@@ -23,16 +23,16 @@ The target audience for this learning package is all development team members an
 *Conduct as standup as a SCRUM master using a SCRUM board
 
 ### Learn and identify all relevent aspects of a SCRUM board
-#### *Time:* 30min
+#### **Time:** *30min*
 
 ### Learn and identify all roles involved with using a SCRUM board
-#### *Time:* 30min
+#### **Time:** *30min*
 
 ### Participate in a standup
-#### *Time:* 15min
+#### **Time:** *15min*
 
 ### Conduct a standup as SCRUM master
-#### *Time:* 15min per team member
+#### **Time:** *15min per team member*
 
 ## Learning Resources
 
