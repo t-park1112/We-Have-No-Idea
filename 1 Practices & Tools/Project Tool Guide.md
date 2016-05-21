@@ -32,9 +32,14 @@ If a team is located at the same location as a physical repository where documen
 
 ## Skype for business
 
+Voice-talk communication software will be used for daily meetings that involve any stakeholders that are unable to attend stand-up meetings. For example overseas or distant stakeholders that cannot attend stand-up meetings on a daily basis. Online resources like Skype can be used effectively as a communication medium, as it provides webcams for face-to-face talks, and a written chat feature for stakeholders without Mics. (Yip, 2006)
+
 ## TestRail
 
 
 # References
 
 (n.d). Scrum Board - Scrum Inc. Retrieved From https://www.scruminc.com/scrum-board/
+
+Yip, J. (2006). It’s not just standing up. Retrieved from martinfowler.com/articles/itsNotJustStandingUp.html
+
