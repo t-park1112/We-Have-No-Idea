@@ -58,10 +58,10 @@ This short test involves getting each member to fill out a questionnaire on the 
 
 ## Learning Resources
 
-[Scrum 101] The Task Board - https://www.youtube.com/watch?v=Ti2g66b7MUo
+[Scrum 101 The Task Board](https://www.youtube.com/watch?v=Ti2g66b7MUo)
 
-How to Hold a Daily Standup Meeting - https://www.youtube.com/watch?v=YBKuYzqvZmI
+[How to Hold a Daily Standup Meeting](https://www.youtube.com/watch?v=YBKuYzqvZmI)
 
-Scrum Task Board - https://www.mountaingoatsoftware.com/agile/scrum/task-boards
+[Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
 
 ## Learning activity
