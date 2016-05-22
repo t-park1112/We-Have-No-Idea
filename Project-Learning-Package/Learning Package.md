@@ -1,6 +1,6 @@
 # **Learning Package - SCRUM board**
 
-###### **Estimated time for this learning package:** 1hr 20min
+###### **Estimated time for this learning package:** TODO
 
 This learning package is to help the Share portfolio management software team utilise a SCRUM board into their daily development process. The learning package will aim at giving the 12 members of the development team enough knowledge and practise in order for them to be competent in using a SCRUM board every day as part of the project approach using SCRUM methodologies. The learning package will also aim to give any additional team members joining the development team enough knowledge and practise to be competent and as experienced as the rest of the team.**
 
@@ -8,7 +8,7 @@ This learning package is to help the Share portfolio management software team ut
 
 **This learning package is aimed at all members of the project that are participating in any activity related to the development of the Shareportfolio management software. Because the project methodology is SCRUM, the project team will comprise of developers, testers, and project managers.**
 
-**The Share portfolio management team will comprise of 12 members at the start of development and expand to around 18 members by the end of 2017, therefore the learning package will be split into two phases:**
+**The Share portfolio management team will comprise of 12 members at the start of development and expand to around 18 members by the end of 2017, therefore upscaling will be split into two phases:**
 
 <br/>
 
@@ -17,10 +17,12 @@ This learning package is to help the Share portfolio management software team ut
 * **Phase 2:** Upscaling the additional team members and project managers who will join the development team in future.
 
 <br/>
+##### Because of this, the SCRUM board learning package was developed to accomodate any new members being able to upscale at any time.
+
 
 # **Learning Plan**
 
-SCRUM boards are a vital tool to every software project using the agile-SCRUM approach. A SCRUM board is a tool that allows teams to visualise and abstract Sprint Backlog items by visualising them in a physical manner like papernotes or virtually using a third party software like Trello or Team Foundation Server. The purpose of a SCRUM board is show all work items that need to be completed during a current sprint. The SCRUM board is a visual way to assign work tasks from the sprint backlog while tracking and evaluating a sprint's progress.
+SCRUM boards are a vital tool to every software project using the agile-SCRUM approach. A SCRUM board is a tool that allows teams to visualise and abstract Sprint Backlog items by visualising them in a physical manner virtually using cards. The purpose of a SCRUM board is show all work items that need to be completed during a current sprint. The SCRUM board is a visual way to assign work tasks from the sprint backlog while tracking and evaluating a sprint's progress.
 
 ## **Learning Goals**
 
@@ -39,9 +41,22 @@ SCRUM boards are a vital tool to every software project using the agile-SCRUM ap
 <br/>
 
 ## *Learn and identify all relevent aspects of a SCRUM board*
-#### Time: *20min approx*
+#### Time: *10min approx*
 
-#### Actions:
+A scrum board comprises of various columns and rows. Each column represents the state of a card or task. A card contains a task related to a user story from the sprint backlog on the scrum board. Each row of the scrum board is a user story. 
+
+The general columns of a scrum board are:
+* Story: User stories from the current sprint backlog are placed here for each row of the Scrum board.
+* To Do: All task cards that have not been assigned, or do not belong in the other columns are put here.
+* Doing: All cards currently assigned to members for work are put here.
+* Done: All cards that represent tasks that have been completed are put here.
+
+Additional columns can be used but these depend on the nature of the project. As such, these could be columns such as 'Notes', 'Issues' or 'Tests'.
+
+
+
+
+
 1. Watch and review the following resources:
 
   - [Video - how to use the scrum task board](https://www.youtube.com/watch?v=Ti2g66b7MUo "SCRUM 101 The Task Board")
