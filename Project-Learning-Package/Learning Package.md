@@ -20,18 +20,18 @@
 
 # **Learning Plan**
 
-## Learning Goals
+## **Learning Goals**
 
-* *To be able to identify all relevant aspects of a SCRUM board*
+1. *To be able to identify all relevant aspects of a SCRUM board*
 <br/>
 
-* *To be able to identify all roles involved with using a SCRUM board*
+2. *To be able to identify all roles involved with using a SCRUM board*
 <br/>
 
-* *Participate in a standup involving using a SCRUM board*
+3. *Participate in a standup involving using a SCRUM board*
 <br/>
 
-* *Conduct as standup as a SCRUM master using a SCRUM board*
+4. *Conduct as standup as a SCRUM master using a SCRUM board*
 <br/>
 
 ## *Learn and identify all relevent aspects of a SCRUM board*
