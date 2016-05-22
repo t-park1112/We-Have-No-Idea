@@ -1,8 +1,7 @@
 # **Learning Package - SCRUM board**
 
-## **Goals**
 
-**The goal of this learning package is to help the Share portfolio management software team utilise a SCRUM board into their daily development process. The learning package will aim at giving the 12 members of the development team enough knowledge and practise in order for them to be competent in using a SCRUM board every day as part of the project approach using SCRUM methodologies. The learning package will also aim to give any additional team members joining the development team enough knowledge and practise to be competent and as experienced as the rest of the team.**
+This learning package is to help the Share portfolio management software team utilise a SCRUM board into their daily development process. The learning package will aim at giving the 12 members of the development team enough knowledge and practise in order for them to be competent in using a SCRUM board every day as part of the project approach using SCRUM methodologies. The learning package will also aim to give any additional team members joining the development team enough knowledge and practise to be competent and as experienced as the rest of the team.**
 
 ## **Target Audience**
 
@@ -23,6 +22,8 @@
 SCRUM boards are a vital tool to every software project using the agile-SCRUM approach. A SCRUM board is a tool that allows teams to visualise and abstract Sprint Backlog items by visualising them in a physical manner like papernotes or virtually using a third party software like Trello or Team Foundation Server. The purpose of a SCRUM board is show all work items that need to be completed during a current sprint. The SCRUM board is a visual way to assign work tasks from the sprint backlog while tracking and evaluating a sprint's progress.
 
 ## **Learning Goals**
+
+### *By the end of this Learning Package you should be able to:*
 
 1. *To be able to identify all relevant aspects of a SCRUM board*
 <br/>
