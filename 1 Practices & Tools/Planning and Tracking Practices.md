@@ -34,9 +34,9 @@ Planning poker is a consensus-based estimating technique where user stories in
 the product backlog are given an estimated effort value. Consensus for the
 effort of a user story are determined with prime numbers when the scrum team,
 the scrum master and the product owner have come to a consensus that a user
-story should be of ‘x’ value, because of reason ‘y’. This will help plan out
-sprints, so that all sprints have equal amount of effort assigned, so that the
-work load is distributed.
+story should be of ‘x’ value, because of reason ‘y’. The higher a value, the
+more effort it is required. This will help plan out sprints, so that all sprints
+have equal amount of effort assigned, so that the work load is distributed.
 
  
 

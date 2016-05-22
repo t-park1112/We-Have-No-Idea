@@ -12,6 +12,8 @@ planning and tracking include:
 
 -   **Online repository (Google Drive, Github**)
 
+-   **Planning Poker online/Standard Poker Cards**
+
 Because of the nature of this case study, no budget has been stated, so these
 recommendations are assuming no limit on the amount of budget for use during
 development.
@@ -59,6 +61,19 @@ be able to view the documents in real-time. However, as dynamic as backlogs are,
 they do not change frequently, so another online option is Github, where code is
 usually stored, but it can also store backlogs in the form of documents, and
 version control can be easily done.
+
+ 
+
+Planning Poker online/Standard Poker Cards
+------------------------------------------
+
+A team can use the practice; planning poker in the form of an online game or
+with standard poker cards. The practice is executed with members of a team to
+each have select cards like for example, the Fibonacci sequence of cards in each
+of their hands. These cards can then be played when a user story is called, to
+determine what each member thinks the effort of the user story should be. Online
+Planning Poker is much easier for groups of more than 4, as a standard poker
+deck only contains 4 of the same cards in each deck.
 
  
 -
