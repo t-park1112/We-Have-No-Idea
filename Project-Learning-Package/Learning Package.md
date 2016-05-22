@@ -76,10 +76,6 @@ The development team members are all other team members participating in a stand
 ###### Image 2. A Scrum master conducting a standup using a SCRUM board while the development team members present discuss the state of the user stories and tasks.
 <br/>
 
-#### Actions:
-1. Watch and review the following resources:
-
-  - [Video - How to hold a Standup](https://www.youtube.com/watch?v=YBKuYzqvZmI "How to Hold a Daily Standup Meeting")
 
 
 ### *Test team member's knowledge with scrum board quiz*
@@ -109,6 +105,8 @@ The development team members are all other team members participating in a stand
 [Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
 
 http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG
+
+https://itopskanban.files.wordpress.com/2011/09/img_1115.jpg
 
 ## Learning activity
 
