@@ -24,11 +24,9 @@ The Share portfolio management team will comprise of 12 members at the start of 
 ## Learning Goals
 
 * *To be able to identify all relevant aspects of a SCRUM board*
-
 <br/>
 
 * *To be able to identify all roles involved with using a SCRUM board*
-
 <br/>
 
 * *Participate in a standup involving using a SCRUM board*
