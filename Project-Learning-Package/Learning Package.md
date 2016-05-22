@@ -20,6 +20,8 @@
 
 # **Learning Plan**
 
+SCRUM boards are a vital tool to every software project using the agile-SCRUM approach. A SCRUM board is a tool that allows teams to visualise and abstract Sprint Backlog items by visualising them in a physical manner like papernotes or virtually using a third party software like Trello or Team Foundation Server. The purpose of a SCRUM board is show all work items that need to be completed during a current sprint. The SCRUM board is a visual way to assign work tasks from the sprint backlog while tracking and evaluating a sprint's progress.
+
 ## **Learning Goals**
 
 1. *To be able to identify all relevant aspects of a SCRUM board*
