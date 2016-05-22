@@ -54,13 +54,7 @@ The general columns of a scrum board are:
 Additional columns can be used but these depend on the nature of the project. As such, these could be columns such as 'Notes', 'Issues' or 'Tests'.
 
 
-
-
-
-1. Watch and review the following resources:
-
-  - [Video - how to use the scrum task board](https://www.youtube.com/watch?v=Ti2g66b7MUo "SCRUM 101 The Task Board")
-  - [Webpage - What is a Scrum task board?](https://www.mountaingoatsoftware.com/agile/scrum/task-boards "Scrum Task Board")
+<br/>
 
 2. Review knowledge with short test
 This short test involves getting each member to fill out a questionnaire on the key aspects of the resources used in step one. Each member must score 100% before being able to continue to the next step in learning.
