@@ -25,10 +25,10 @@ SCRUM boards are a vital tool to every software project using the agile-SCRUM ap
 
 ### *By the end of this Learning Package you should be able to:*
 
-1. *To be able to identify all relevant aspects of a SCRUM board*
+1. *Identify all relevant aspects of a SCRUM board*
 <br/>
 
-2. *To be able to identify all roles involved with using a SCRUM board*
+2. *Identify all roles involved with using a SCRUM board*
 <br/>
 
 3. *Participate in a standup involving using a SCRUM board*
