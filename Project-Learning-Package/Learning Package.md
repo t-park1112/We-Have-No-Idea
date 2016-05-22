@@ -84,11 +84,11 @@ The development team members are all other team members participating in a stand
 
 Each member should complete [this revision test](scrum-board-quiz.md) and aim to score 100% before continuing.
 The answers and test can be found under the learning resources section aswell.
+<br/>
 
 
 
-
-### *Participate in a standup*
+## Participate in a standup
 #### Time: *15min*
 
 #### Actions:
