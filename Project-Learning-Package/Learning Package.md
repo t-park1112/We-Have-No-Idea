@@ -12,6 +12,9 @@ The Share portfolio management team will comprise of 12 members at the start of 
 * **Phase 1:** Upscaling of the initial 12 team members and project managers who will be starting development.
 * **Phase 2:** Upscaling the additional team members and project managers who will join the development team in future.
 
+
+
+
 # **Learning Plan**
 
 ## Learning Goals
