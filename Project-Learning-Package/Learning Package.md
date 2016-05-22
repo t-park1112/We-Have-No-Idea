@@ -1,8 +1,5 @@
 #Learning Package - SCRUM board
 
-Select one tool or practice that you have recommended and prepare a learning package that would
-help a team quickly upskill to include the tool/practice in their daily process. You must include:
-
 ## Goals
 
 The goal of this learning package is to help the Share portfolio management software team utilise a SCRUM board into their daily development process. The learning package will aim at giving the 12 members of the development team enough knowledge and practise in order for them to be competent in using a SCRUM board every day as part of the project approach using SCRUM methodologies. The learning package will also aim to give any additional team members joining the development team enough knowledge and practise to be competent and as experienced as the rest of the team.
