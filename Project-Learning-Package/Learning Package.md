@@ -42,7 +42,7 @@ SCRUM boards are a vital tool to every software project using the agile-SCRUM ap
 <br/>
 
 ## Learn and identify all relevent aspects of a SCRUM board
-#### Time: *5min approx*
+##### Time: *5min approx*
 
 A scrum board comprises of various columns and rows. Each column represents the state of a card or task. A card contains a task related to a user story from the sprint backlog on the scrum board. Each row of the scrum board is a user story. 
 
@@ -61,7 +61,7 @@ Additional columns can be used but these depend on the nature of the project. As
 
 
 ## Learn and identify all roles involved with using a SCRUM board
-#### Time: *5min approx*
+##### Time: *5min approx*
 
 
 There are two roles used when using a SCRUM board:
@@ -80,7 +80,7 @@ The development team members are all other team members participating in a stand
 
 
 ## Test team member's knowledge with scrum board quiz
-#### Time: *10min approx*
+##### Time: *10min approx*
 
 Each member should complete [this revision test](scrum-board-quiz.md) and aim to score 100% before continuing.
 The answers and test can be found under the learning resources section aswell.
@@ -90,7 +90,7 @@ The answers and test can be found under the learning resources section aswell.
 
 
 ## Participate in a standup
-#### Time: *15min*
+##### Time: *15min*
 
 #### Actions:
 1. Setup a SCRUM board in the work environment of the development team.
@@ -108,7 +108,7 @@ The answers and test can be found under the learning resources section aswell.
 
 In order to reinforce the ideas and processes surrounding a Scrum task board it is important that each team member have a go at being the scrum master for a standup session in order to show that they understand how a scrum board works.
 
-#### Time: *15min per team member*
+##### Time: *15min per team member*
 
 #### Actions:
 1. Select a couple of different user stories from the previous learning plan objective.
