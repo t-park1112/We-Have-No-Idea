@@ -1,4 +1,4 @@
-#Learning Package - SCRUM board
+# *Learning Package - SCRUM board*
 
 ## Goals
 
@@ -12,7 +12,7 @@ The Share portfolio management team will comprise of 12 members at the start of 
 * **Phase 1:** Upscaling of the initial 12 team members and project managers who will be starting development.
 * **Phase 2:** Upscaling the additional team members and project managers who will join the development team in future.
 
-# Learning Plan
+# **Learning Plan**
 
 ## Learning Goals
 
@@ -21,10 +21,10 @@ The Share portfolio management team will comprise of 12 members at the start of 
 * Participate in a standup involving using a SCRUM board
 * Conduct as standup as a SCRUM master using a SCRUM board
 
-## Learn and identify all relevent aspects of a SCRUM board
-#### **Time:** *20min approx*
+## *Learn and identify all relevent aspects of a SCRUM board*
+#### Time: *20min approx*
 
-#### **Actions:**
+#### Actions:
 1. Watch and review the following resources:
 
   - [Video - how to use the scrum task board](https://www.youtube.com/watch?v=Ti2g66b7MUo "SCRUM 101 The Task Board")
@@ -33,26 +33,26 @@ The Share portfolio management team will comprise of 12 members at the start of 
 2. Review knowledge with short test
 This short test involves getting each member to fill out a questionnaire on the key aspects of the resources used in step one. Each member must score 100% before being able to continue to the next step in learning.
 
-### Learn and identify all roles involved with using a SCRUM board
-#### **Time:** *20min approx*
+### *Learn and identify all roles involved with using a SCRUM board*
+#### Time: *20min approx*
 
-#### **Actions:**
+#### Actions:
 1. Watch and review the following resources:
 
   - [Video - How to hold a Standup](https://www.youtube.com/watch?v=YBKuYzqvZmI "How to Hold a Daily Standup Meeting")
 
 
-### Test team member's knowledge with scrum board quiz
-#### **Time:** *30min approx*
+### *Test team member's knowledge with scrum board quiz*
+#### Time: *30min approx*
 
-#### **Actions:**
+#### Actions:
 1. perform a written test of the project managers choosing in which all team members have to participate. The goal is to score 100% in order to prove one's profiency in the ideas of a Scrum board.
 
 
-### Participate in a standup
-#### **Time:** *15min*
+### *Participate in a standup*
+#### Time: *15min*
 
-#### **Actions:**
+#### Actions:
 1. Setup a SCRUM board in the work environment of the development team.
 2. Select a couple of user stories from the product backlog of the project.
 3. Using the user stories from step 2., conduct a mock SCRUM standup. Be sure to assign tasks to each member of the team. Because of the size of the team, more user stories may need to be added.
@@ -70,15 +70,15 @@ This short test involves getting each member to fill out a questionnaire on the 
 
 ## Learning activity
 
-### Conduct a standup as SCRUM master
+### *Conduct a standup as SCRUM master*
 
 #### Goal
 
 In order to reinforce the ideas and processes surrounding a Scrum task board it is important that each team member have a go at being the scrum master for a standup session in order to show that they understand how a scrum board works.
 
-#### **Time:** *15min per team member*
+#### Time: *15min per team member*
 
-#### **Actions:**
+#### Actions:
 1. Select a couple of different user stories from the previous learning plan objective.
 2. Select a new Scrum master and conduct another SCRUM standup like the previous learning plan objective.
 3. Repeat this process for all members until each member is proficient with the process of standups and how to use a SCRUM task board.
