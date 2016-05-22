@@ -1,10 +1,10 @@
-# *Learning Package - SCRUM board*
+# **Learning Package - SCRUM board**
 
-## Goals
+## **Goals**
 
 The goal of this learning package is to help the Share portfolio management software team utilise a SCRUM board into their daily development process. The learning package will aim at giving the 12 members of the development team enough knowledge and practise in order for them to be competent in using a SCRUM board every day as part of the project approach using SCRUM methodologies. The learning package will also aim to give any additional team members joining the development team enough knowledge and practise to be competent and as experienced as the rest of the team.
 
-## Target Audience
+## **Target Audience**
 
 This learning package is aimed at all members of the project that are participating in any activity related to the development of the Shareportfolio management software. Because the project methodology is SCRUM, the project team will comprise of developers, testers, and project managers. 
 
