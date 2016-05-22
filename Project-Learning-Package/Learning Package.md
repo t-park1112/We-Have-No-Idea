@@ -83,7 +83,7 @@ The development team members are all other team members participating in a stand
 #### Time: *10min approx*
 
 Each member should complete [this revision test](scrum-board-quiz.md) and aim to score 100% before continuing.
-The answers can be found under the learning resources section.
+The answers and test can be found under the learning resources section aswell.
 
 
 
@@ -97,19 +97,9 @@ The answers can be found under the learning resources section.
 3. Using the user stories from step 2., conduct a mock SCRUM standup. Be sure to assign tasks to each member of the team. Because of the size of the team, more user stories may need to be added.
 
 
+<br/>
 
 
-## Learning Resources
-
-[Scrum 101 The Task Board](https://www.youtube.com/watch?v=Ti2g66b7MUo)
-
-[How to Hold a Daily Standup Meeting](https://www.youtube.com/watch?v=YBKuYzqvZmI)
-
-[Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
-
-http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG
-
-https://itopskanban.files.wordpress.com/2011/09/img_1115.jpg
 
 ## Learning activity
 
@@ -125,5 +115,20 @@ In order to reinforce the ideas and processes surrounding a Scrum task board it 
 1. Select a couple of different user stories from the previous learning plan objective.
 2. Select a new Scrum master and conduct another SCRUM standup like the previous learning plan objective.
 3. Repeat this process for all members until each member is proficient with the process of standups and how to use a SCRUM task board.
+<br/>
 
+## Learning Resources
 
+[Scrum 101 The Task Board](https://www.youtube.com/watch?v=Ti2g66b7MUo)
+
+[How to Hold a Daily Standup Meeting](https://www.youtube.com/watch?v=YBKuYzqvZmI)
+
+[Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
+
+Image 1 - Retrieved from http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG
+
+Image 2 - Retrieved from https://itopskanban.files.wordpress.com/2011/09/img_1115.jpg
+
+[Revision test](scrum-board-quiz.md)
+
+[Revision test answers](scrum-board-quiz-answers.md)
