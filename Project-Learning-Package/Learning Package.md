@@ -120,16 +120,16 @@ In order to reinforce the ideas and processes surrounding a Scrum task board it 
 
 ## Learning Resources
 
-[Scrum 101 The Task Board](https://www.youtube.com/watch?v=Ti2g66b7MUo)
+* [Scrum 101 The Task Board](https://www.youtube.com/watch?v=Ti2g66b7MUo)
 
-[How to Hold a Daily Standup Meeting](https://www.youtube.com/watch?v=YBKuYzqvZmI)
+* [How to Hold a Daily Standup Meeting](https://www.youtube.com/watch?v=YBKuYzqvZmI)
 
-[Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
+* [Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
 
-Image 1 - Retrieved from http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG
+* Image 1 - Retrieved from http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG
 
-Image 2 - Retrieved from https://itopskanban.files.wordpress.com/2011/09/img_1115.jpg
+* Image 2 - Retrieved from https://itopskanban.files.wordpress.com/2011/09/img_1115.jpg
 
-[Revision test](scrum-board-quiz.md)
+* [Revision test](scrum-board-quiz.md)
 
-[Revision test answers](scrum-board-quiz-answers.md)
+* [Revision test answers](scrum-board-quiz-answers.md)
