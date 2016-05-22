@@ -11,8 +11,8 @@ This learning package is aimed at all members of the project that are participat
 The Share portfolio management team will comprise of 12 members at the start of development and expand to around 18 members by the end of 2017, therefore the learning package will be split into two phases:
 * **Phase 1:** Upscaling of the initial 12 team members and project managers who will be starting development.
 * **Phase 2:** Upscaling the additional team members and project managers who will join the development team in future.
---
 
+<br/>
 
 # **Learning Plan**
 
