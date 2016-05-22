@@ -3,8 +3,9 @@ Planning and Tracking Practices
 
  
 
-The use of SCRUM **Sprint Planning meetings** and  artifacts would be key
-practices of SCRUM that can be used in planning and tracking. Artifacts include:
+The use of SCRUM **Sprint Planning meetings**, **Planning Poker** and artifacts
+would be key practices of SCRUM that can be used in planning and tracking.
+Artifacts include:
 
 -   **Burndown Charts**
 
@@ -13,15 +14,6 @@ practices of SCRUM that can be used in planning and tracking. Artifacts include:
 -   **Product Backlog**
 
 -   **Sprint Backlog**
-
-Because of the nature of this case study, having the first-half of the
-development process dedicated to redeveloping the current software, most
-requirements of the current software will not change. This would require a much
-more detailed process of Planning ahead and tracking that any potential
-functionalities are consistent with the requirements, otherwise this would force
-a chain reaction of problems in the future. The second-half of the case study is
-dedicated to extending the current functionalities, so a normal approach of
-planning and tracking in SCRUM would be required.
 
  
 
@@ -32,6 +24,19 @@ At the beginning of each Sprint a meeting, where stakeholders collaborate and
 plan what user stories to include in a sprint, so that all members involved know
 what is happening. Plans should all be resolved by the end of the meeting, so as
 to prevent as much hand-wringing as possible from the project. (Schwaber, 2004)
+
+ 
+
+Planning Poker
+--------------
+
+Planning poker is a consensus-based estimating technique where user stories in
+the product backlog are given an estimated effort value. Consensus for the
+effort of a user story are determined with prime numbers when the scrum team,
+the scrum master and the product owner have come to a consensus that a user
+story should be of ‘x’ value, because of reason ‘y’. The higher a value, the
+more effort it is required. This will help plan out sprints, so that all sprints
+have equal amount of effort assigned, so that the work load is distributed.
 
  
 
@@ -83,9 +88,11 @@ complete. This will help spread out and plan the work needed to be done in a
 sprint.
 
  
--
 
 References
 ----------
 
 Schwaber, K. (2004). Agile Project Management with Scrum. Microsoft Press.
+
+Planning Poker: An Agile Estimating and Planning Technique. (n.d) Retrieved from
+https://www.mountaingoatsoftware.com/agile/planning-poker

@@ -19,8 +19,3 @@ will be described by, frequently referencing the project practice guide and the
 project tool guide produced by our team.
 
  
-
-The Client’s Obstacle
-=====================
-
-The “Share Portfolio Management” software
