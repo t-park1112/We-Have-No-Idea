@@ -9,6 +9,9 @@ The goal of this learning package is to help the Share portfolio management soft
 This learning package is aimed at all members of the project that are participating in any activity related to the development of the Shareportfolio management software. Because the project methodology is SCRUM, the project team will comprise of developers, testers, and project managers. 
 
 The Share portfolio management team will comprise of 12 members at the start of development and expand to around 18 members by the end of 2017, therefore the learning package will be split into two phases:
+
+<br/>
+
 * **Phase 1:** Upscaling of the initial 12 team members and project managers who will be starting development.
 * **Phase 2:** Upscaling the additional team members and project managers who will join the development team in future.
 
@@ -21,12 +24,19 @@ The Share portfolio management team will comprise of 12 members at the start of 
 ## Learning Goals
 
 * *To be able to identify all relevant aspects of a SCRUM board*
+
 <br/>
+
 * *To be able to identify all roles involved with using a SCRUM board*
+
 <br/>
+
 * *Participate in a standup involving using a SCRUM board*
+
 <br/>
+
 * *Conduct as standup as a SCRUM master using a SCRUM board*
+
 <br/>
 
 ## *Learn and identify all relevent aspects of a SCRUM board*
