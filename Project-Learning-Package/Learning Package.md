@@ -18,6 +18,7 @@ This learning package is to help the Share portfolio management software team ut
 
 <br/>
 ##### Because of this, the SCRUM board learning package was developed to accomodate any new members being able to upscale at any time.
+<br/>
 
 
 # **Learning Plan**
@@ -84,7 +85,7 @@ The development team members are all other team members participating in a stand
 Each member should complete this revision test and aim to score 100% before continuing.
 The answers can be found under the learning resources section.
 
-[this revision test](../blob/master/Project-Learning-Package/upscaling-resources/scrum-board-quiz.md)
+[this revision test](scrum-board-quiz.md)
 
 
 ### *Participate in a standup*
