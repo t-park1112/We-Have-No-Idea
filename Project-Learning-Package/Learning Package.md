@@ -54,6 +54,7 @@ The general columns of a scrum board are:
 Additional columns can be used but these depend on the nature of the project. As such, these could be columns such as 'Notes', 'Issues' or 'Tests'.
 
 ![alt text](http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG "SCRUM Board components")
+###### Image 1. SCRUM Board showing a sprint backlog divided into post-it notes and assigned to their respective columns, reflecting their current state.
 
 <br/>
 
