@@ -82,10 +82,10 @@ The development team members are all other team members participating in a stand
 ## Test team member's knowledge with scrum board quiz
 #### Time: *10min approx*
 
-Each member should complete this revision test and aim to score 100% before continuing.
+Each member should complete [this revision test](scrum-board-quiz.md) and aim to score 100% before continuing.
 The answers can be found under the learning resources section.
 
-[this revision test](scrum-board-quiz.md)
+
 
 
 ### *Participate in a standup*
