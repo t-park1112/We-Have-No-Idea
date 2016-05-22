@@ -4,7 +4,7 @@
 ###### This test is part of the SCRUM board learning package and is to be completed by each team member after reviewing the first three objectives of the learning package.
 <br/>
 
-### **Name: **
+### **Name:**
 ### **Score:    /10**
 
 ## Questions
