@@ -30,11 +30,9 @@ The Share portfolio management team will comprise of 12 members at the start of 
 <br/>
 
 * *Participate in a standup involving using a SCRUM board*
-
 <br/>
 
 * *Conduct as standup as a SCRUM master using a SCRUM board*
-
 <br/>
 
 ## *Learn and identify all relevent aspects of a SCRUM board*
