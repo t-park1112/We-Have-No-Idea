@@ -84,7 +84,7 @@ The development team members are all other team members participating in a stand
 Each member should complete this revision test and aim to score 100% before continuing.
 The answers can be found under the learning resources section.
 
-[this revision test](../We-Have-No-Idea/Project-Learning-Package/upscaling-resources/scrum-board-quiz.md)
+[this revision test](../blob/master/Project-Learning-Package/upscaling-resources/scrum-board-quiz.md)
 
 
 ### *Participate in a standup*
