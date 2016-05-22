@@ -42,7 +42,7 @@ SCRUM boards are a vital tool to every software project using the agile-SCRUM ap
 <br/>
 
 ## Learn and identify all relevent aspects of a SCRUM board
-#### Time: *5min approx*
+##### Time: *5min approx*
 
 A scrum board comprises of various columns and rows. Each column represents the state of a card or task. A card contains a task related to a user story from the sprint backlog on the scrum board. Each row of the scrum board is a user story. 
 
@@ -61,7 +61,7 @@ Additional columns can be used but these depend on the nature of the project. As
 
 
 ## Learn and identify all roles involved with using a SCRUM board
-#### Time: *5min approx*
+##### Time: *5min approx*
 
 
 There are two roles used when using a SCRUM board:
@@ -80,16 +80,17 @@ The development team members are all other team members participating in a stand
 
 
 ## Test team member's knowledge with scrum board quiz
-#### Time: *10min approx*
+##### Time: *10min approx*
 
-Each member should complete this revision test and aim to score 100% before continuing.
-The answers can be found under the learning resources section.
+Each member should complete [this revision test](scrum-board-quiz.md) and aim to score 100% before continuing.
+The answers and test can be found under the learning resources section aswell.
+<br/>
+<br/>
 
-[this revision test](scrum-board-quiz.md)
 
 
-### *Participate in a standup*
-#### Time: *15min*
+## Participate in a standup
+##### Time: *15min*
 
 #### Actions:
 1. Setup a SCRUM board in the work environment of the development team.
@@ -97,33 +98,38 @@ The answers can be found under the learning resources section.
 3. Using the user stories from step 2., conduct a mock SCRUM standup. Be sure to assign tasks to each member of the team. Because of the size of the team, more user stories may need to be added.
 
 
+<br/>
 
 
-## Learning Resources
 
-[Scrum 101 The Task Board](https://www.youtube.com/watch?v=Ti2g66b7MUo)
+# Learning activity
 
-[How to Hold a Daily Standup Meeting](https://www.youtube.com/watch?v=YBKuYzqvZmI)
-
-[Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
-
-http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG
-
-https://itopskanban.files.wordpress.com/2011/09/img_1115.jpg
-
-## Learning activity
-
-### *Conduct a standup as SCRUM master*
-
-#### Goal
+## Conduct a standup as SCRUM master
 
 In order to reinforce the ideas and processes surrounding a Scrum task board it is important that each team member have a go at being the scrum master for a standup session in order to show that they understand how a scrum board works.
 
-#### Time: *15min per team member*
+##### Time: *15min per team member*
 
 #### Actions:
 1. Select a couple of different user stories from the previous learning plan objective.
 2. Select a new Scrum master and conduct another SCRUM standup like the previous learning plan objective.
 3. Repeat this process for all members until each member is proficient with the process of standups and how to use a SCRUM task board.
+<br/>
+<br/>
 
 
+## Learning Resources
+
+* [Scrum 101 The Task Board](https://www.youtube.com/watch?v=Ti2g66b7MUo)
+
+* [How to Hold a Daily Standup Meeting](https://www.youtube.com/watch?v=YBKuYzqvZmI)
+
+* [Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
+
+* Image 1 - Retrieved from http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG
+
+* Image 2 - Retrieved from https://itopskanban.files.wordpress.com/2011/09/img_1115.jpg
+
+* [Revision test](scrum-board-quiz.md)
+
+* [Revision test answers](scrum-board-quiz-answers.md)
