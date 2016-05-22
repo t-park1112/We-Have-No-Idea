@@ -101,11 +101,9 @@ The answers and test can be found under the learning resources section aswell.
 
 
 
-## Learning activity
+# Learning activity
 
-### *Conduct a standup as SCRUM master*
-
-#### Goal
+## Conduct a standup as SCRUM master
 
 In order to reinforce the ideas and processes surrounding a Scrum task board it is important that each team member have a go at being the scrum master for a standup session in order to show that they understand how a scrum board works.
 
@@ -116,6 +114,8 @@ In order to reinforce the ideas and processes surrounding a Scrum task board it 
 2. Select a new Scrum master and conduct another SCRUM standup like the previous learning plan objective.
 3. Repeat this process for all members until each member is proficient with the process of standups and how to use a SCRUM task board.
 <br/>
+<br/>
+
 
 ## Learning Resources
 
