@@ -53,6 +53,7 @@ The general columns of a scrum board are:
 
 Additional columns can be used but these depend on the nature of the project. As such, these could be columns such as 'Notes', 'Issues' or 'Tests'.
 
+![alt text](http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG "SCRUM Board components")
 
 <br/>
 
@@ -93,6 +94,8 @@ This short test involves getting each member to fill out a questionnaire on the 
 [How to Hold a Daily Standup Meeting](https://www.youtube.com/watch?v=YBKuYzqvZmI)
 
 [Scrum Task Board](https://www.mountaingoatsoftware.com/agile/scrum/task-boards)
+
+http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG
 
 ## Learning activity
 
