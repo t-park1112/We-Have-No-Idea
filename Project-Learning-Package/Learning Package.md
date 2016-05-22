@@ -40,8 +40,8 @@ SCRUM boards are a vital tool to every software project using the agile-SCRUM ap
 4. *Conduct as standup as a SCRUM master using a SCRUM board*
 <br/>
 
-## *Learn and identify all relevent aspects of a SCRUM board*
-#### Time: *10min approx*
+## Learn and identify all relevent aspects of a SCRUM board
+#### Time: *5min approx*
 
 A scrum board comprises of various columns and rows. Each column represents the state of a card or task. A card contains a task related to a user story from the sprint backlog on the scrum board. Each row of the scrum board is a user story. 
 
@@ -52,17 +52,29 @@ The general columns of a scrum board are:
 * Done: All cards that represent tasks that have been completed are put here.
 
 Additional columns can be used but these depend on the nature of the project. As such, these could be columns such as 'Notes', 'Issues' or 'Tests'.
+<br/>
 
 ![alt text](http://4.bp.blogspot.com/-QHumvjh_W-c/Uou4wg0ndWI/AAAAAAAAIOw/kfBfos3-eis/s1600/Task+board+in+need+of+rotation.JPG "SCRUM Board components")
 ###### Image 1. SCRUM Board showing a sprint backlog divided into post-it notes and assigned to their respective columns, reflecting their current state.
-
 <br/>
 
-2. Review knowledge with short test
-This short test involves getting each member to fill out a questionnaire on the key aspects of the resources used in step one. Each member must score 100% before being able to continue to the next step in learning.
 
-### *Learn and identify all roles involved with using a SCRUM board*
-#### Time: *20min approx*
+## Learn and identify all roles involved with using a SCRUM board
+#### Time: *5min approx*
+
+
+There are two roles used when using a SCRUM board:
+* Scrum master: Responsible for conducting daily standup and writing/assigning cards to SCRUM board.
+* Development team member: A member of the team participating in the standup. 
+
+The Scrum master is tasked with leading the standup and directly interacts with the SCRUM board. It is their job to assure that the SCRUM board is properly maintained and reflects the current state of the sprint. 
+
+The development team members are all other team members participating in a standup and while do not interact with the SCRUM board directly, they collaborate with the SCRUM master to determine the state of cards both new and old, with respect to their place on the SCRUM board.
+<br/>
+
+![alt text](https://itopskanban.files.wordpress.com/2011/09/img_1115.jpg "Daily Standup showing roles used around Scrum Board")
+###### Image 2. A Scrum master conducting a standup using a SCRUM board while the development team members present discuss the state of the user stories and tasks.
+<br/>
 
 #### Actions:
 1. Watch and review the following resources:
