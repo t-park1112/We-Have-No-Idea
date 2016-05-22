@@ -6,14 +6,14 @@
 
 ## **Target Audience**
 
-This learning package is aimed at all members of the project that are participating in any activity related to the development of the Shareportfolio management software. Because the project methodology is SCRUM, the project team will comprise of developers, testers, and project managers. 
+**This learning package is aimed at all members of the project that are participating in any activity related to the development of the Shareportfolio management software. Because the project methodology is SCRUM, the project team will comprise of developers, testers, and project managers. **
 
-The Share portfolio management team will comprise of 12 members at the start of development and expand to around 18 members by the end of 2017, therefore the learning package will be split into two phases:
+**The Share portfolio management team will comprise of 12 members at the start of development and expand to around 18 members by the end of 2017, therefore the learning package will be split into two phases:**
 
 <br/>
 
-* **Phase 1:** Upscaling of the initial 12 team members and project managers who will be starting development.
-* **Phase 2:** Upscaling the additional team members and project managers who will join the development team in future.
+* ###**Phase 1:** Upscaling of the initial 12 team members and project managers who will be starting development.
+* ###**Phase 2:** Upscaling the additional team members and project managers who will join the development team in future.
 
 <br/>
 
