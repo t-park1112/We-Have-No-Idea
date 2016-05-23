@@ -41,14 +41,14 @@ Benefits of Scrum
     development process and for individual sprints, progress of work completed
     can be tracked and compared to the planned rate of work completed. This is
     an effective way of measuring and tracking the team’s current speed of
-    progress, so as to have development step it up accordingly.
+    progress, so as to have development step it up accordingly. (2016)
 
  
 
 Disadvantages of Scrum
 ----------------------
 
--   Restricted team sizes - Team sizes between 3 to 9 members saves the members
+-   Restricted team sizes - Team sizes of between 3 to 9 members saves the members
     the loss of productivity and interaction between members with less than 3
     members and the sheer amount of coordination and complexity involved with
     teams with more than 9 members. (Schwaber, Sutherland, 2013)
