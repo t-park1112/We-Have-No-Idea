@@ -3,25 +3,22 @@ What is Scrum
 
 Scrum is an agile framework for completing projects that are formalized for
 software development projects (Mederios, Neto, Passos, Araujo, 2015). Like all
-other agile software practices, scrum is an iterative process that are done in
-several sprints.
+other agile software practices, scrum is an iterative process that is done in
+several development phases called *sprints*.
 
-Scrum is completed by a *scrum team* of developers, a *scrum master* who acts as
-the facilitator for the process and a *product owner* who owns the product.
-Requirements and story points are negotiated and gathered by the team and the
-product owner, which are then converted into a *product backlog*. This backlog
-is split up into multiple workable *sprints backlogs* that are completed in
-*sprints*. A sprint traditionally consists of a *sprint planning meeting* at the
-start of a sprint to plan out the sprint, a *burndown chart* to track the
-progress of the sprint and have *daily meetings* for the team to share with each
-other, what was completed the previous day and what needs to be completed for
-the current day. At the end of a sprint a *review & retrospective* is completed
-with the team and the product owner to gather 3 main pieces of information; what
-went well, what didn’t work well, what needs to be completed next sprint and to
-show the product owner a shippable product of what was completed during the
-sprint. (Mederios, Neto, Passos, Araujo, 2015)
-
- 
+Scrum is completed by a team of developers, called a *scrum development team*; a *scrum master*, who acts as
+the facilitator for the process; and a *product owner*, who owns the product.
+Requirements are negotiated and gathered by the team and the
+product owner, which are then converted into a *product backlog*. Each work item in the backlog is given story points. These are used to show to estimated effort that is needed to complete the work. This backlog
+is then split up into multiple workable *sprints backlogs* that are completed in
+*sprints*. 
+A sprint traditionally consists of a *sprint planning meeting* at the
+start of a sprint to plan out the sprint; a *burndown chart*, to track the
+progress of the sprint; and *daily meetings*, for the team to share with each
+other what was completed the previous day and what needs to be completed for
+the current day. 
+At the end of a sprint a *review & retrospective* is completed
+with the team and the product owner. The review is used to show the product owner a shippable product of what was completed during the sprint and the retrospective is used to gather 3 main pieces of information; what went well, what didn’t work well, and what needs to be completed next sprint. and  (Mederios, Neto, Passos, Araujo, 2015).
 
 Benefits of Scrum
 -----------------
