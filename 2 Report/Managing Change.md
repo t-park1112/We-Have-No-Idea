@@ -7,23 +7,23 @@ meetings, sprint planning meetings and backlogs, which can all be found in the
 
 ### Daily Meetings
 
--   Daily meetings as found in the ‘Project Practice Guide’ during the
-    redevelopment process are opportunities for team members to present changes
-    that could happen because of new code. The meetings would be quick meetings,
+-   Daily meetings for this project are opportunities for team members to present changes
+    that could happen to the Portfolio management software because of new code. The meetings would be quick,
     where anyone with any impending changes due to code or any changes for the
-    requirements can present them during meetings, and have them discussed.
-    After discussion either, continue working or put it into the backlog for
+    requirements can present and have them discussed.
+    After discussion, it can be addressed in the current sprint or put it into the backlog for
     future sprints.
 
+(isn't this the same as the first point?)
 -   For the extension process of the the project, daily meetings will be vital
     in managing frequently changing requirements. During these daily meetings, a
-    discussion of the change would be executed and also inserted into the
+    discussion of the changes would be executed and also inserted into the
     backlog.
 
--   Tools for daily meetings would be a localized location for meetings where
-    all stakeholders have access to. Stand-up daily meetings would facilitate
+-   Tools for daily meetings would be a localized location around a SCRUM board for meetings where
+    all team members can congregate around. Stand-up daily meetings would facilitate
     face-to-face communication, so that ideas and discussions are done
-    thoroughly and no details are missed.
+    thoroughly and can be recorded using the SCRUM board, ensuring  miscommunications are minimised.
 
 ### Product Backlog
 
