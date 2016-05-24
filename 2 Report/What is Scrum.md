@@ -62,19 +62,16 @@ Benefits of Scrum
 Disadvantages of Scrum
 ----------------------
 
--   Daily scrum meetings and reviews consume substantial resources - Throughout
-    meetings and reviews requires consistent dedication from all members
-    involved and consistent high-levels of communication. This will cause
-    members to become stressed and produce unsatisfactory work. (Uhlid, n.d)
+-   Daily scrum meetings and reviews consume substantial resources - Meetings and reviews require consistent dedication and               high-levels of communication from all members involved. This can cause less resource-allocated parts of the project to                suffer (Uhlid, n.d).
 
 -   Scrum can be difficult if the project lacks planning and definition - The
     more unclear a project is, the more difficult the task of planning can be
     for the scrum master. This will result in a difficult development process
-    for the entire team, which will produce unsatisfactory work. (Uhlid, n.d)
+    for the entire team, which will produce unsatisfactory work and consume unnessecary time and effort. (Uhlid, n.d)
 
--   Slacking Team Members Cause Inefficiency - If a member(s) falls behind in
-    the work rate, this may impact the team’s efficiency and management of the
-    project. Especially if sprints are backed-up due to lack of work can
+-   Slacking Team Members Cause Inefficiency - If a member(s) falls behind on
+    their work rate, this may impact the team’s efficiency and management of the
+    project. If sprints are backed-up due to lack of work this can
     severely damage project tasks. (2016)
 
  
