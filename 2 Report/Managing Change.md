@@ -1,7 +1,7 @@
 Managing Change
 ---------------
 
-For this project, the practices to be used in managing change in are; daily
+For this project, the reccomended practices used in managing change are; daily
 meetings, sprint planning meetings and backlogs, which can all be found in the
 ‘Project Tool guide’ and the ‘Project practice guide’.
 
