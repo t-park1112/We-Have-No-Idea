@@ -10,8 +10,10 @@ The aim of this project is to recommend a suitable approach along with practices
 and tools for the redevelopment and extension of the client’s software, so that
 it is stable, usable and supported for modern platforms.
 
-This report presents the scrum approach for the client, which includes how scrum
-will be the most suitable approach for the client by comparing other approaches.
+ I feel putting "this report presents recommendations using the SCRUM
+methodology of Agile software development for the client, which includes how
+scrum will be the most suitable approach for the client by comparing other
+approaches.
 
 A description of scrum’s collaboration & communication, requirements
 engineering, project planning & tracking, managing change and quality assurance
