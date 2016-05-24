@@ -1,10 +1,10 @@
 Planning and Tracking
 ---------------------
 
-For this project, practices to be used for planning and tracking the project
-include sprint planning meetings, planning poker, burndown charts and backlogs
-and their various tools that can be used, which can be all found in the ‘Project
-Practice Guide’ and the ‘Project Tool Guide’.
+For this project we have selected practices to be used for planning and tracking the project
+including sprint planning meetings, planning poker, burndown charts, backlogs
+and their various tools that can be used. These can be all found in the ‘Project
+Practice Guide’ and the ‘Project Tool Guide’ sections.
 
  
 
