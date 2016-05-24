@@ -25,17 +25,14 @@ meetings, sprint planning meetings and backlogs, which can all be found in the
     face-to-face communication, so that ideas and discussions are done
     thoroughly and can be recorded using the SCRUM board, ensuring  miscommunications are minimised.
 
+### Another section here?
+
 ### Product Backlog
 
--   For both the phases of this development, the use of the product backlog to
-    record all large changes as user stories is an effective way of handling
-    change as found in the ‘Project Practice Guide’. As daily meetings are
-    completed, changes that are significant enough to insert new user stories or
-    have them edited, would have the changes brought up in Sprint Planning
-    Meetings at the beginning of a sprint.
+-   As mentioned in the ‘Project Practice Guide’ for both the phases of this development, the use of the product backlog to
+    record all requirements and changes in the form of user stories is an effective way of handling
+    change. As sprints are completed, user stories can be evaluated or
+    edited. These changes can be brought up in Sprint Planning Meetings at the beginning of each sprint with any product backlog items that have changed being remade or removed.
 
--   A tool that could be used for managing change with a product backlog would
-    be an online repository that would store the backlog and have it updated in
-    real-time. This will allow the team to view the backlog from their
-    workstation, and if anyone had a change that was not described in the
-    product backlog, they could note it down for the next meeting.
+-   A reccomended tool for managing change of the Portfolio management softare using SCRUM is an online repository that would store the     backlog and have it updated in real-time. The use of a repository helps back-up any project documentation for the portfolio            management software as well as keep all documentation in a centralised, easily accessible place. This will allow the team to access     the backlog from their workstation, allowing any team member who has a change that was not described in the
+    product backlog, to be able to note it down for the next meeting. 
