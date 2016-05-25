@@ -1,14 +1,10 @@
 # Retrospective: Tae Park
 
-Two things you did well.
-Two things you could improve. How?
-Two things you have learned during this project.
-
 ##What I've done well
 
-1. 
+1. Established and maintained communication within the team. I was able to consistently maintain our mode of communication of Facebook active, so that we could share our thoughts and work together effectively. 
 
-2. 
+2. Mediated conflicts within the team. As team leader, I was able to mediate conflicts between members with differing opinions. For example, there was a situation where the team was split on a decision. I listened to both sides and solved the conflict by being fait to all members. 
 
 ##What I could improve on
 
