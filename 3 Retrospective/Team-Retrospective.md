@@ -8,7 +8,7 @@ document that identifies:*
 
 ## Practices/processes that you would use again & why.
 
-- Using a SCRUM board to facilitate agile development
+# - Using a SCRUM board to facilitate agile development
 
 - Planning sprints
 
