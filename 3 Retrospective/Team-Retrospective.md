@@ -8,41 +8,39 @@ document that identifies:*
 
 ## Practices/processes that you would use again & why.
 
-# - Using a SCRUM board to facilitate agile development
+##### - Using a SCRUM board to facilitate agile development
 
-- Planning sprints
+##### - Planning sprints
 
-- Using Github for version control
+##### - Using Github for version control
 
-- Using Standup meetings
+#####- Using Standup meetings
 
-- Having showcases to collaborate work
+##### - Having showcases to collaborate work
 
-- Using SCRUM oriented Quality Assurance practices
+##### - Using SCRUM oriented Quality Assurance practices
 
 ## Practices/processes that you would drop & why.
 
-- Using facebook as the primary tool for discussion
+##### - Using facebook as the primary tool for discussion
 
-- Not following the release plan strictly
+##### - Not following the release plan strictly
 
-- Create a wiki
+##### - Create a wiki
 
-- Using Github for version control
+##### - Using Github for version control
 
-- Letting Tae do work past 2am
-
--
+##### - Letting Tae do work past 2am
 
 
 ## Practices/processes that you would add if you had to do a similar project again & why
 
-- Using a tool like Skype to communicate verbally when we couldn't meet up in person
+##### - Using a tool like Skype to communicate verbally when we couldn't meet up in person
 
-- Enforce deadlines
+##### - Enforce deadlines
 
-- Make smaller sprint plans 
+##### - Make smaller sprint plans 
 
-- Have more scrum standups
+##### - Have more scrum standups
 
-- Assign specific roles to each members
+##### - Assign specific roles to each members
