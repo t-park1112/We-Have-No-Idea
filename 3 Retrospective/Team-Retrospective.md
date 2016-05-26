@@ -1,6 +1,6 @@
 # Team retrospective
 
-##### As a group, our team got together and held a team project retrospective using Trello to record each individual team members response to the following questions.
+### As a group, our team got together and held a team project retrospective using Trello to record each individual team members response to the following questions.
 </br>
 </br>
 
