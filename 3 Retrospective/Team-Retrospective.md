@@ -2,6 +2,7 @@
 
 ##### As a group, our team got together and held a team project retrospective using Trello to record each individual team members response to the following questions.
 </br>
+</br>
 
 ## Practices/processes that you would use again & why
 
@@ -37,6 +38,7 @@ Some members felt that github was exessive and unecessary as it required upscali
 </br>
 </br>
 
+
 ## Practices/processes that you would add if you had to do a similar project again & why
 
 ##### - Using a tool like Skype to communicate verbally when we couldn't meet up in person
@@ -56,9 +58,9 @@ The frequency of our standups increased as the project got closer to the deadlin
 
 ##### - Assign specific roles to each members
 We did not assign specific roles to each member which we would do in future. Some members seemed to enjoy and perform certain activities better than in other work they were assigned. Having a dedicated peer reviewer, minute keeper, and document formatting guru would have been more beneficial for us.
+</br>
+</br>
 
-</br>
-</br>
 
 #Conclusion
 
