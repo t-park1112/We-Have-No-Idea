@@ -64,6 +64,6 @@ We did not assign specific roles to each member which we would do in future. Som
 
 #Conclusion
 
-####**In conclusion, as a team we are happy with our deliverables. We admit that we did not adhere purely to our documented Work Breakdown Structure and Release plan but that we utilised many aspects of Agile methodologies when developing.**
+####**In conclusion, as a team we are happy with our deliverables. We admit that we did not adhere purely to our documented Work Breakdown Structure and Release plan but that we utilised many aspects of Agile methodologies when developing the wiki.**
 
 ####**We picked what processes and practices we liked from SCRUM instead of adhering to it completely. We believe given the nature of the project to create this wiki, that this was an acceptable approach and embodies the spirit of Agile and SCRUM - Managing change and applying the right processes and tools to achieve functional software**
