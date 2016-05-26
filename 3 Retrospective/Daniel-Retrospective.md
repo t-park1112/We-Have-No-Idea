@@ -1,6 +1,5 @@
 # Retrospective: Daniel Oram
 
-Individual reflection is also important for learning. Identify:
 
 ##Two things you did well.
 
@@ -34,25 +33,3 @@ I had never thought to create flashy markdown files before but now I am addicted
 Re-iterating from my last point in the things to improve.. My new motto is "under-promise over-deliver" and this sums up this point perfectly. I learnt the importance of promising work in a project and its relationship to trust and communication in an agile environment!
 
 
-
-
-
-
-
-## Collaboration
-
-I personally felt that everyone was actively involved in discussion during the duration of the project. There were times when things got very quiet, especially during the break. But I don't believe there was any issues with miscommunication.
-
-## Planning and tracking 
-
-I feel planning and tracking could be improved if we were ever to do this assignment again. Most of the work was completed during the last two weeks of the assignment. Although the deliverables progressed steadily, development was a bit of a rush at the end. I feel we made good use of Agile methodologies using Trello and github to track and document our progress but that we did not stick to our release plan very well. 
-
-Personally I had not used github and trello extensively before the assignment and I learnt a fantastic amount about features of both that I will be able to use on future software projects. I have learnt a lot about markdown styling on github and how to perform pull requests and merge branches. These things have always been a problem for me in the past with other projects and this personally was the greatest thing I will take away from this project.
-
-## version control
-
-Version control was, in my opinion, a very well managed and maintained aspect of our project. Github allowed us to clearly see the changes and contributions of each member that uploaded their work to github. I felt this was satisfactory for our group's work.
-
-## Quality assurance
-
-The best quality assurance practice we used was definitely the peer reviews. Once someone completed a work item, the card was moved to the peer review list of Trello and the team notified to review the work of the member. This led to some really constructive feedback and changes which I think really helped improve the quality of the content of the wiki.
